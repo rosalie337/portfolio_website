@@ -90,7 +90,24 @@ let developerData = {
         {
             emerging_tools: ['React Hooks', 'Redux', 'JSX', 'UX/UI Design']
         }
-    ]
+    ],
+    education: [
+        {
+            school: 'Alchemy Code Lab',
+            city: 'Portland, OR',
+            description: '800+ hours of advanced full-stack JavaScript software development instruction and experience',
+            award: 'ad',
+            date: '2020-2021',
+
+        },
+        {
+            school: 'Portland State University',
+            city: 'Portland, OR',
+            description: 'Psychology major with focus on Behavioral Neuroscience and Analysis.',
+            award: 'Bachelor\'s of Science,',
+            date: '2020-2021',
+        },
+    ],
 }
 
 export default developerData
