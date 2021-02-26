@@ -64,7 +64,7 @@ let developerData = {
     ],
     techStack: [
         {
-            languages: ['Javascript', 'HTML', 'CSS']
+            languages: ['Javascript', 'HTML', 'CSS', 'JSX']
         },
         {
             libraries: ['React', 'Express', 'Gatsby']
@@ -85,10 +85,10 @@ let developerData = {
             dev_tools: ['Node JS', 'Heroku', 'Postman', 'Netlify', 'Compass']
         },
         {
-            dev_practices: ['TDD', 'BDD']
+            dev_practices: ['TDD', 'BDD', 'Agile']
         },
         {
-            emerging_tools: ['React Hooks', 'Redux', 'JSX', 'UX/UI Design']
+            emerging_tools: ['React Hooks', 'Redux', 'UX/UI Design']
         }
     ],
     education: [
