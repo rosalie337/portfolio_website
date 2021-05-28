@@ -15,7 +15,7 @@ let developerData = {
         },
     ],
     seeking: 'seeking some a Software Engineer role that allows me to work remotely',
-    email: 'inquiry@grosalielee.dev',
+    email: 'rosalie337@gmail.com',
     city: 'Portland, OR', 
     bio:'something something about me',
     socialMedia: [
@@ -25,7 +25,7 @@ let developerData = {
         },
         {
             name: 'Github',
-            url: 'github/rosalie337'
+            url: 'https://github.com/rosalie337'
         },
     ],
     portfolio:[
