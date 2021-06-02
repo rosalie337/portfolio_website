@@ -1,18 +1,16 @@
 import React, { Component } from 'react'
+import developerData from '../developerData'
 
 export default class Portfolio extends Component {
     render() {
         return (
-            <div
-            style={{
-              display: 'flex',
-              justifyContent: 'Right',
-              alignItems: 'Right',
-              height: '100vh'
-            }}
-            >
+            <>
                 <h1>Portfolio</h1>
-            </div>
+                <h3> 
+                {developerData.portfolio[0].title}
+                </h3>
+
+            </>
         )
     }
 }
